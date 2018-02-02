@@ -1,0 +1,16 @@
+blinker==1.4
+click==6.7
+Flask==0.12.2
+Flask-Cors==3.0.3
+Flask-JWT-Extended==3.4.0
+itsdangerous==0.24
+Jinja2==2.10
+MarkupSafe==1.0
+marshmallow==2.15.0
+mongoengine==0.15.0
+passlib==1.7.1
+PyJWT==1.5.3
+pymongo==3.6.0
+six==1.11.0
+webargs==1.8.1
+Werkzeug==0.13

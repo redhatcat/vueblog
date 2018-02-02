@@ -1,0 +1,3 @@
+require('prismjs/components/prism-java.js')
+require('prismjs/components/prism-python.js')
+require('prismjs/components/prism-ruby.js')

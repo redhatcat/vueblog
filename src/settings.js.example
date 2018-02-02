@@ -1,0 +1,4 @@
+export default {
+  branding: 'A Blog with a Vue',
+  apiUrl: 'http://localhost:5000'
+}
